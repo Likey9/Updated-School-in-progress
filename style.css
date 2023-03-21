@@ -1,0 +1,11 @@
+#video
+{
+  width:100%;
+  height:590px;
+  border:none;
+}
+.my_nav_bar{
+  position:sticky;
+  z-index: 9999999;
+  top:0;
+}
